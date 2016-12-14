@@ -5,6 +5,8 @@ The design is from https://dribbble.com/shots/1439965-Due-Date-and-Time-Picker.
 
 The icon is from [ionicons](http://ionicons.com/).
 
+Forked from [https://wangzuo.github.io/input-moment](https://wangzuo.github.io/input-moment) and uses the 12-hour time format with AM / PM designation.
+
 ### Installation
 ``` sh
 npm i input-moment --save
